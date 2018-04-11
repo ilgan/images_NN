@@ -1,4 +1,4 @@
 # images_NN
-# created by Ilya G
+## created by Ilya G
 
-*** keras resnet model for image classification. 
+### keras resnet model for image classification. 
